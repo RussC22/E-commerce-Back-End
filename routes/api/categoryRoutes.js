@@ -1,11 +1,5 @@
 const router = require("express").Router();
-const {
-  Location,
-  Traveller,
-  Trip,
-  Product,
-  Category,
-} = require("../../models");
+const { Product, Category } = require("../../models");
 
 // GET Categories
 router.get("/", async (req, res) => {
