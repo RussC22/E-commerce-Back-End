@@ -11,7 +11,8 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 ## Usage information
-click on the green "code" button. Then you will need to copy the HTTPS link 
+
+click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a fiolder in your terminal.
 
 ##Important Links
 
