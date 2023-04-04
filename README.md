@@ -12,7 +12,7 @@ SO THAT my company can compete with other e-commerce companies
 ```
 ## Usage information
 ```md
-click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a fiolder in your terminal.
+click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a folder in your terminal.
 ```
 ##Important Links
 
