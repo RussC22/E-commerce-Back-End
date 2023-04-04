@@ -1,18 +1,15 @@
 # E-commerce-Back-End
 
-this is a build the back end for an e-commerce site; I have taken a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
-
 ## Project Description
-
+```md
+this is a build the back end for an e-commerce site; I have taken a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+```
 ## User Story
-
+```md
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-
-![Drag Racing](Dragster.jpg)
-
-
+```
 ## Usage information
 ```md
 click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a fiolder in your terminal.
